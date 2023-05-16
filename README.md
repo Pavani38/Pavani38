@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavani38" alt="pavani38" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​">
-
 - 📫 How to reach me **pavanigajula38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

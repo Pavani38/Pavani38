@@ -10,10 +10,6 @@
 <p><b>Skills:</b></p>
 <p>Front-End Web Development | Content Creator</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavani38&label=Profile%20views&color=0e75b6&style=flat" alt="pavani38" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavani38" alt="pavani38" /></a> </p>
-
 - 📫 How to reach me **pavanigajula38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

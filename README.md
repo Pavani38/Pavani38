@@ -10,7 +10,11 @@
 <p><b>Skills:</b></p>
 <p>Front-End Web Development | Content Creator</p>
 
-- 📫 How to reach me **pavanigajula38@gmail.com**
+- 🔭I'm currently working on this page.
+- 🌱I'm currently learning ReactJS
+- 📫How to reach me **pavanigajula38@gmail.com**
+- 😄Pronouns: She/Her
+- ⚡Fun fact: When you call my name the second word in my name in one of the indian regional language it means Bangle.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

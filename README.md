@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavani Gajula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavani38&label=Profile%20views&color=0e75b6&style=flat" alt="pavani38" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavani38" alt="pavani38" /></a> </p>
+
 <p align="left">Hello!👋 My name is Pavani Gajula. I completed my postgraduation degree in Kakatiya University🏫.</p>
 <p align="left">I have a huge interest in web development and learning full stack web development skills.</p>
 <p><b>Skills:</b></p>
